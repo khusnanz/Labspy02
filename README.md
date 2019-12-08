@@ -16,7 +16,8 @@ Algoritma program:
 
 Flowchart program:
 
-![Flowchart](https://user-images.githubusercontent.com/57025775/67931455-70870680-fbf4-11e9-96a7-991a4c601c0a.jpg)
+![Flowchart](https://user-images.githubusercontent.com/57025775/70382710-8f667e80-1992-11ea-86a0-36a29d5a506e.jpg)
+
 
 
 Contoh inputan nilai:
